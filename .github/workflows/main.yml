@@ -1,0 +1,17 @@
+dvwa-kali-webapp-pentest/
+├─ README.md
+├─ docs/
+│  ├─ lab-architecture.md
+│  ├─ windows-dvwa-setup.md
+│  ├─ kali-attack-runbook.md
+│  ├─ troubleshooting.md
+│  └─ screenshots/
+├─ scripts/
+│  ├─ dvwa_login_and_set_low.sh
+│  ├─ dvwa_sqlmap.sh
+│  └─ helpers.sh
+├─ evidence/
+│  ├─ findings.md
+│  └─ commands.log
+├─ .gitignore
+└─ LICENSE
